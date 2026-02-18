@@ -1,6 +1,6 @@
 # trade-free-design_website (Landing-webpage)
 
-This is the second Odin project. I wil be creating an entire web page from a design odin provide for you.
+This is the second Odin project. I wil be creating an entire web page from a design odin provide for me in the course.
 
 ## What This Program Does
 
