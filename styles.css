@@ -177,9 +177,8 @@ main {
     white-space: nowrap;
 }
 
-.letter-text p { /* Style for the description in call section */
+.letter-text p { 
     margin: 0;
-
 }
 
 
